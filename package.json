@@ -1,0 +1,21 @@
+{
+  "name": "pikachu",
+  "version": "0.0.0",
+  "description": "A simple project to learn AI",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
